@@ -1,6 +1,7 @@
 # 💫 About Me:
 A passionate Computer Science student, currently exploring new technologies and diversifying my knowledge
 
+![GIF](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its.shibam_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shibammitra) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/shibammitra6) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/shibammitra12) 
