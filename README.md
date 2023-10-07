@@ -12,6 +12,8 @@ A passionate Computer Science student, currently exploring new technologies and 
 ![shibammitra24's Stats](https://github-readme-stats.vercel.app/api?username=shibammitra24&theme=dark&show_icons=true&hide_border=false&count_private=true)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shibammitra24&theme=dark)](https://git.io/streak-stats)<br/>
 ![shibammitra24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shibammitra24&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
+# 🏅 Badges:
 [![An image of @shibammitra24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shibammitra24)](https://holopin.io/@shibammitra24)
 
 ### ✍️ Random Dev Quote
