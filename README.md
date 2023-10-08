@@ -14,7 +14,7 @@ A passionate Computer Science student, currently exploring new technologies and 
 ![shibammitra24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shibammitra24&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 # 🏅 Badges:
-[!(https://holopin.io/@shibammitra24)]
+[![An image of @shibammitra24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shibammitra24)](https://holopin.io/@shibammitra24)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
