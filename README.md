@@ -13,15 +13,6 @@ A passionate Computer Science student, currently exploring new technologies and 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shibammitra24&theme=dark)](https://git.io/streak-stats)<br/>
 ![shibammitra24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shibammitra24&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-# 🏅 Badges:
-[![An image of @shibammitra24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shibammitra24)](https://holopin.io/@shibammitra24)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=shibammitra24&icon=6&color=6)](https://visitcount.itsvg.in)
 
