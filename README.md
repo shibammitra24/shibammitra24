@@ -9,11 +9,11 @@
 
 ###
 
-<!-- <img align="center" height="150" src="https://media2.giphy.com/media/WnTsYrfU1OXGE/200w.gif?cid=6c09b952pp9zv4bcmr5caylxfbr7i5j2dd58yubype6e7mdg&ep=v1_gifs_search&rid=200w.gif&ct=g"  /> -->
+ <img align="center" height="150" src="https://media2.giphy.com/media/WnTsYrfU1OXGE/200w.gif?cid=6c09b952pp9zv4bcmr5caylxfbr7i5j2dd58yubype6e7mdg&ep=v1_gifs_search&rid=200w.gif&ct=g"  /> 
 
 ###
 
-<!-- <div align="left">
+ <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
@@ -35,11 +35,11 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-</div> -->
+</div> 
 
 ###
 
-<!--
+
 <div align="left">
   <a href="https://www.instagram.com/shibam.designs/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -53,7 +53,7 @@
   <a href="https://dribbble.com/latenightdesigner" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="dribbble logo"  />
   </a>
-</div> -->
+</div> 
 
 ###
 
