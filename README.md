@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Shibam Mitra and I'm a CS Student from India.</h2>
+<h2 align="center">Hi 👋! My name is Shibam Mitra and I'm a Front-end Designer / Developer from India.</h2>
 
 ###
 
